@@ -1,2 +1,4 @@
 .vscode
+
 first_project/db.sqlite3
+second_project/db.sqlite3
